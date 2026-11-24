@@ -3,14 +3,14 @@
   <channel>
     <title>MixBar</title>
     <item>
-      <title>Version 3.1.0</title>
-      <pubDate>Tue, 24 Nov 2026 10:09:01 +0000</pubDate>
-      <sparkle:version>3.1.0</sparkle:version>
-      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <title>Version 3.1.1</title>
+      <pubDate>Tue, 24 Nov 2026 10:27:25 +0000</pubDate>
+      <sparkle:version>3.1.1</sparkle:version>
+      <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-      <description><![CDATA[Automatic updates: MixBar now keeps itself up to date (Settings → About).]]></description>
-      <enclosure url="https://github.com/hasithnadeera/MixBar-releases/releases/download/v3.1.0/MixBar-3.1.0.zip"
-        type="application/octet-stream" sparkle:edSignature="pft0P7xHfkTwG+sH+jNRbExkVfN3V7PRPShaXuHvAi5eBAoiekta50eiTdXeBJj24HgjQH4oLWSBSFYfdPFKBQ==" length="2865767" />
+      <description><![CDATA[Signed with a stable certificate: macOS keeps MixBar's permissions across future updates.]]></description>
+      <enclosure url="https://github.com/hasithnadeera/MixBar-releases/releases/download/v3.1.1/MixBar-3.1.1.zip"
+        type="application/octet-stream" sparkle:edSignature="BYO72SLympUmOCtLRuGQB8weOkiUjuCk2t5jrt1nSnN8PdP639in9ixjbNZr3pu+/n8HUwDnKjgw/ra8C4+3Cg==" length="2879165" />
     </item>
   </channel>
 </rss>
